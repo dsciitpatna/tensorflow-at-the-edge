@@ -1,0 +1,4 @@
+https://cloud.google.com/compute/docs/disks/gcs-buckets
+https://cloud.google.com/storage/docs/quickstart-gsutil#create
+https://cloud.google.com/compute/docs/gcloud-compute/
+https://cloud.google.com/sdk/gcloud/reference/compute/ssh
