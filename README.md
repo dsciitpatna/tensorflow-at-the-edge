@@ -19,6 +19,8 @@ In recent days IoT technology leading us to the post-cloud era. Smart connected 
 
 Here we have developed a smart and efficient system using deep learning, edge computing, and cloud technologies. Instead of using only a centralized cloud server, the functions including feature engineering and decision making are moved to the network edge creating a distributed environment. In Figure 1 below, we have focused on parts 1 - 4, 5 & 6 being application/use dependent.
 
+<img src="reports/architecture.png">
+
 **Step1:**
 First, the real-time video stream will be captured by the pi camera mounted on a raspberry pi (edge device).
 
