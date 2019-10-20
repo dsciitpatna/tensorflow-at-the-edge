@@ -43,9 +43,9 @@ The trained model will identify “persons” in the video efficiently and Edge 
 **5. Google Cloud Platform:** Google Cloud Platform (GCP), offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search and YouTube. Alongside a set of management tools, it provides a series of modular cloud services including computing, data storage, data analytics, and machine learning. Google Cloud Platform provides infrastructure as a service, platform as a service, and serverless computing environments.
 
 ### Contributers:
-Sheetal Gupta 
-Shivansh Shukla
-Anubhav Jangra
+Sheetal Gupta : [sheetal-g9](https://github.com/sheetal-g9) <br>
+Shivansh Shukla : [dexty007](https://github.com/dexty007) <br>
+Anubhav Jangra : [anubhav-jangra](https://github.com/anubhav-jangra) 
 
 
 
